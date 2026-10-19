@@ -1,0 +1,6 @@
+,0
+random_state,42
+test_size,0.15
+stratified,True
+train_rows,38415
+test_rows,6780
